@@ -1,1 +1,5 @@
-# ibookG3
+# ibookG3Spec	OmniBook 300	MacBook Pro 2021
+CPU	386SXLV CPU	M1 Max
+CPU Speed	16 MHz	8x 3228 MHz, 2x 2064 MHz
+RAM	2MB	64,000MB
+Disk Space	10MB	2,000,000MB
